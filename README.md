@@ -10,7 +10,7 @@ First use your favourite environment get the source tree and put the **CMakeList
 
 ```bash
 git clone https://github.com/rexdf/LuaWindowsBuildScript.git
-git checkout dev
+#git checkout dev
 wget http://www.lua.org/ftp/lua-5.3.0.tar.gz
 tar zxvf lua-5.3.0.tar.gz
 mv lua-5.3.0/* LuaWindowsBuildScript/
