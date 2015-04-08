@@ -25,4 +25,8 @@ You can use `cmake --help` to get detail about build command.
 Now open **lua.sln** with VS 2013 and build it.
 
 
-luarocks maybe need this one.
+[luarocks](http://luarocks.org) maybe need this one.
+
+[LuaFilesystem](https://rocks.moonscript.org/modules/hisham/luafilesystem)
+
+![luarocks](https://raw.githubusercontent.com/rexdf/LuaWindowsBuildScript/master/screenshot/luabuild.png)
